@@ -35,5 +35,6 @@ Es popular debido a las siguientes características:
 
 Las aplicaciones `non blocking` permiten ejecutar varias tareas de forma simultanea sin bloquear la aplicación mientras se realiza uuna petición, para esto utiliza el asincronismo.
 
-### HOLA MUNDO
+## REFORZAMIENTO DE TEMAS NECESARIOS
 
+### NODEMON
