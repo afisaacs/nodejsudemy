@@ -1,0 +1,25 @@
+{
+  "name": "nodejsudemy",
+  "version": "1.0.0",
+  "description": "Esta es una aplicación de línea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afisaacs/nodejsudemy.git"
+  },
+  "author": "Aaron Isaacs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afisaacs/nodejsudemy/issues"
+  },
+  "homepage": "https://github.com/afisaacs/nodejsudemy#readme",
+  "dependencies": {
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
